@@ -44,6 +44,14 @@ spring.h2.console.settings.web-allow-others=true
 
 > You may use any password or username for h2. You need to use the same when you try to access through h2-console.
 
+You may access the H2 Datatabase from the browser using
+
+```
+http://localhost:8080/h2-console
+```
+
+> Check port number in the `application.properties` to make sure that it is 8080 or something else.
+
 ### Keep database in memory
 ```
 #spring.datasource.url=jdbc:h2:mem:testdb
