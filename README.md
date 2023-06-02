@@ -1,5 +1,11 @@
 # umun-framework
 
+## About
+
+### What you can do
+
+### Motivation
+
 ## Getting Started
 
 1. Go to [Umun Studio](https://studio.umun.in)
