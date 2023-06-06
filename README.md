@@ -42,10 +42,12 @@ Before you begin, ensure you have the following installed on your machine:
 ## Documentation
 
 (Provide a link to or information about your documentation here)
+* [Whats New](./whats_new.md)
 
 ## Community
 
 (Provide information about how to get help and contribute here)
+* [Community Guidelines](./COMMUNITY_GUIDELINES.md)
 
 ## License
 
